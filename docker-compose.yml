@@ -1,19 +1,17 @@
 version: '3'
 services:
-  ca-census-db:
+  db-ca-census:
     container_name: db-ca-census
-    image: mysql
+    image: postgres
     environment:
-      MYSQL_ROOT_PASSWORD: pass1234
-      MYSQL_USER: admin
-      MYSQL_PASSWORD: 1234
-      MYSQL_DATABASE: ca_census
+      POSTGRES_DB: ca_census
+      POSTGRES_USER: admin
+      POSTGRES_PASSWORD: 1234
     ports:
       - "5432:5432"
     volumes:
-      - ./database:/database
-    working_dir: '/database'
+      - ./database:/database/
+    working_dir: /database/
 
 volumes:
-  db-ca-census:
-    name: database
+  database:

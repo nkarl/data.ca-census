@@ -1,0 +1,493 @@
+﻿City,1-1-2022,1-1-2023,Change,County
+Alameda,"33,524","33,959",1.3,Alameda
+Albany,"7,946","7,967",0.3,Alameda
+Berkeley,"52,921","53,734",1.5,Alameda
+Dublin,"24,977","25,304",1.3,Alameda
+Emeryville,"7,656","7,853",2.6,Alameda
+Fremont,"79,749","81,065",1.7,Alameda
+Hayward,"52,914","53,564",1.2,Alameda
+Livermore,"33,087","33,157",0.2,Alameda
+Newark,"15,811","16,153",2.2,Alameda
+Oakland,"183,729","187,734",2.2,Alameda
+Piedmont,"3,964","3,979",0.4,Alameda
+Pleasanton,"29,750","29,776",0.1,Alameda
+San Leandro,"32,952","33,223",0.8,Alameda
+Union City,"21,947","21,960",0.1,Alameda
+Alpine,"1,544","1,550",0.4,Alpine
+Amador,119,119,0.0,Amador
+Ione,"2,188","2,203",0.7,Amador
+Jackson,"2,414","2,418",0.2,Amador
+Plymouth,502,513,2.2,Amador
+Sutter Creek,"1,430","1,432",0.1,Amador
+Biggs,677,690,1.9,Butte
+Chico,"45,793","46,678",1.9,Butte
+Gridley,"2,606","2,651",1.7,Butte
+Oroville,"7,783","7,846",0.8,Butte
+Paradise,"3,702","4,365",17.9,Butte
+Calaveras,"27,632","27,741",0.4,Calaveras
+Angels City,"1,915","1,918",0.2,Calaveras
+Antioch,"37,313","38,095",2.1,Contra Costa
+Brentwood,"21,733","22,033",1.4,Contra Costa
+Clayton,"4,170","4,172",0.0,Contra Costa
+Concord,"47,683","47,816",0.3,Contra Costa
+Danville,"16,288","16,341",0.3,Contra Costa
+El Cerrito,"11,125","11,152",0.2,Contra Costa
+Hercules,"9,340","9,575",2.5,Contra Costa
+Lafayette,"10,057","10,124",0.7,Contra Costa
+Martinez,"15,432","15,462",0.2,Contra Costa
+Moraga,"5,971","5,974",0.1,Contra Costa
+Oakley,"13,986","14,381",2.8,Contra Costa
+Orinda,"7,344","7,388",0.6,Contra Costa
+Pinole,"7,114","7,117",0.0,Contra Costa
+Pittsburg,"24,161","24,475",1.3,Contra Costa
+Pleasant Hill,"14,498","14,530",0.2,Contra Costa
+Richmond,"40,831","40,871",0.1,Contra Costa
+San Pablo,"9,963","9,971",0.1,Contra Costa
+San Ramon,"29,460","29,538",0.3,Contra Costa
+Walnut Creek,"34,550","34,759",0.6,Contra Costa
+Del Norte,"11,169","11,227",0.5,Del Norte
+Crescent City,"1,857","1,874",0.9,Del Norte
+El Dorado,"94,680","95,278",0.6,El Dorado
+Placerville,"4,873","4,893",0.4,El Dorado
+South Lake Tahoe,"15,992","16,028",0.2,El Dorado
+Clovis,"45,835","46,537",1.5,Fresno
+Coalinga,"4,658","4,658",0.0,Fresno
+Firebaugh,"2,343","2,381",1.6,Fresno
+Fowler,"2,237","2,329",4.1,Fresno
+Fresno,"186,993","188,541",0.8,Fresno
+Huron,"1,641","1,641",0.0,Fresno
+Kerman,"4,745","4,880",2.8,Fresno
+Kingsburg,"4,510","4,702",4.3,Fresno
+Mendota,"2,889","2,907",0.6,Fresno
+Orange Cove,"2,490","2,490",0.0,Fresno
+Parlier,"3,875","3,884",0.2,Fresno
+Reedley,"7,363","7,537",2.4,Fresno
+Sanger,"7,827","7,865",0.5,Fresno
+San Joaquin,937,937,0.0,Fresno
+Selma,"7,246","7,282",0.5,Fresno
+Glenn,"11,020","11,043",0.2,Glenn
+Orland,"2,978","2,983",0.2,Glenn
+Willows,"2,517","2,518",0.0,Glenn
+Humboldt,"62,771","63,142",0.6,Humboldt
+Arcata,"8,502","8,668",2.0,Humboldt
+Blue Lake,569,569,0.0,Humboldt
+Eureka,"12,042","12,069",0.2,Humboldt
+Ferndale,723,732,1.2,Humboldt
+Fortuna,"5,295","5,336",0.8,Humboldt
+Rio Dell,"1,443","1,444",0.1,Humboldt
+Trinidad,231,231,0.0,Humboldt
+Brawley,"8,919","9,236",3.6,Imperial
+Calexico,"11,030","11,106",0.7,Imperial
+Calipatria,"1,116","1,121",0.4,Imperial
+El Centro,"15,235","15,324",0.6,Imperial
+Holtville,"1,841","1,841",0.0,Imperial
+Imperial,"6,711","6,797",1.3,Imperial
+Westmorland,663,666,0.5,Imperial
+Inyo,"9,518","9,527",0.1,Inyo
+Bishop,"1,956","1,958",0.1,Inyo
+Arvin,"4,899","4,917",0.4,Kern
+Bakersfield,"135,922","137,327",1.0,Kern
+California City,"5,223","5,334",2.1,Kern
+Delano,"11,817","12,282",3.9,Kern
+Maricopa,432,432,0.0,Kern
+McFarland,"3,480","3,480",0.0,Kern
+Ridgecrest,"12,585","12,596",0.1,Kern
+Shafter,"5,791","6,093",5.2,Kern
+Taft,"2,605","2,606",0.0,Kern
+Tehachapi,"3,811","3,820",0.2,Kern
+Wasco,"6,467","6,560",1.4,Kern
+Kings,"46,729","47,205",1.0,Kings
+Avenal,"2,591","2,618",1.0,Kings
+Corcoran,"4,264","4,277",0.3,Kings
+Hanford,"20,171","20,555",1.9,Kings
+Lemoore,"9,608","9,633",0.3,Kings
+Lake,"34,294","34,354",0.2,Lake
+Clearlake,"7,623","7,624",0.0,Lake
+Lakeport,"2,501","2,508",0.3,Lake
+Lassen,"12,238","12,238",0.0,Lassen
+Susanville,"4,294","4,288",-0.1,Lassen
+Agoura Hills,"7,629","7,710",1.1,Los Angeles
+Alhambra,"31,761","31,986",0.7,Los Angeles
+Arcadia,"20,619","20,686",0.3,Los Angeles
+Artesia,"4,760","4,771",0.2,Los Angeles
+Avalon,"2,196","2,197",0.0,Los Angeles
+Azusa,"15,335","15,512",1.2,Los Angeles
+Baldwin Park,"18,270","18,352",0.4,Los Angeles
+Bell,"9,482","9,515",0.3,Los Angeles
+Bellflower,"25,260","25,298",0.2,Los Angeles
+Bell Gardens,"10,201","10,224",0.2,Los Angeles
+Beverly Hills,"16,267","16,296",0.2,Los Angeles
+Bradbury,356,361,1.4,Los Angeles
+Burbank,"45,843","46,147",0.7,Los Angeles
+Calabasas,"9,382","9,390",0.1,Los Angeles
+Carson,"27,936","27,953",0.1,Los Angeles
+Cerritos,"16,376","16,378",0.0,Los Angeles
+Claremont,"12,794","12,816",0.2,Los Angeles
+Commerce,"3,524","3,525",0.0,Los Angeles
+Compton,"24,751","24,867",0.5,Los Angeles
+Covina,"17,566","17,585",0.1,Los Angeles
+Cudahy,"5,864","5,897",0.6,Los Angeles
+Culver City,"18,008","18,071",0.3,Los Angeles
+Diamond Bar,"18,841","18,850",0.0,Los Angeles
+Downey,"36,202","36,328",0.3,Los Angeles
+Duarte,"7,700","8,351",8.5,Los Angeles
+El Monte,"29,950","30,019",0.2,Los Angeles
+El Segundo,"7,526","7,557",0.4,Los Angeles
+Gardena,"22,486","22,623",0.6,Los Angeles
+Glendale,"80,576","80,779",0.3,Los Angeles
+Glendora,"18,674","18,724",0.3,Los Angeles
+Hawaiian Gardens,"3,811","3,816",0.1,Los Angeles
+Hawthorne,"31,631","31,666",0.1,Los Angeles
+Hermosa Beach,"10,036","10,046",0.1,Los Angeles
+Hidden Hills,650,652,0.3,Los Angeles
+Huntington Park,"15,507","15,529",0.1,Los Angeles
+Industry,74,74,0.0,Los Angeles
+Inglewood,"39,620","39,793",0.4,Los Angeles
+Irwindale,431,432,0.2,Los Angeles
+La Canada Flintridge,"7,120","7,151",0.4,Los Angeles
+La Habra Heights,"2,025","2,025",0.0,Los Angeles
+Lakewood,"27,975","28,019",0.2,Los Angeles
+La Mirada,"15,507","15,507",0.0,Los Angeles
+Lancaster,"55,702","56,000",0.5,Los Angeles
+La Puente,"10,018","10,063",0.4,Los Angeles
+La Verne,"12,232","12,249",0.1,Los Angeles
+Lawndale,"10,302","10,317",0.1,Los Angeles
+Lomita,"8,597","8,601",0.0,Los Angeles
+Long Beach,"181,426","182,441",0.6,Los Angeles
+Los Angeles,"1,526,672","1,546,228",1.3,Los Angeles
+Lynwood,"15,880","15,931",0.3,Los Angeles
+Malibu,"6,692","6,751",0.9,Los Angeles
+Manhattan Beach,"14,981","14,957",-0.2,Los Angeles
+Maywood,"6,717","6,726",0.1,Los Angeles
+Monrovia,"15,475","15,547",0.5,Los Angeles
+Montebello,"20,380","20,549",0.8,Los Angeles
+Monterey Park,"21,576","21,615",0.2,Los Angeles
+Norwalk,"28,633","28,738",0.4,Los Angeles
+Palmdale,"49,882","50,094",0.4,Los Angeles
+Palos Verdes Estates,"5,297","5,307",0.2,Los Angeles
+Paramount,"14,885","14,938",0.4,Los Angeles
+Pasadena,"62,229","62,517",0.5,Los Angeles
+Pico Rivera,"17,462","17,516",0.3,Los Angeles
+Pomona,"43,685","43,957",0.6,Los Angeles
+Rancho Palos Verdes,"16,518","16,527",0.1,Los Angeles
+Redondo Beach,"31,020","31,049",0.1,Los Angeles
+Rolling Hills,702,702,0.0,Los Angeles
+Rolling Hills Estates,"3,377","3,400",0.7,Los Angeles
+Rosemead,"15,001","15,138",0.9,Los Angeles
+San Dimas,"13,070","13,084",0.1,Los Angeles
+San Fernando,"6,618","6,677",0.9,Los Angeles
+San Gabriel,"13,497","13,564",0.5,Los Angeles
+San Marino,"4,520","4,541",0.5,Los Angeles
+Santa Clarita,"80,237","81,690",1.8,Los Angeles
+Santa Fe Springs,"6,146","6,158",0.2,Los Angeles
+Santa Monica,"52,857","53,422",1.1,Los Angeles
+Sierra Madre,"5,110","5,124",0.3,Los Angeles
+Signal Hill,"4,759","4,770",0.2,Los Angeles
+South El Monte,"5,169","5,181",0.2,Los Angeles
+South Gate,"25,773","25,851",0.3,Los Angeles
+South Pasadena,"11,156","11,211",0.5,Los Angeles
+Temple City,"12,312","12,377",0.5,Los Angeles
+Torrance,"58,842","58,955",0.2,Los Angeles
+Vernon,78,78,0.0,Los Angeles
+Walnut,"9,197","9,241",0.5,Los Angeles
+West Covina,"34,930","35,394",1.3,Los Angeles
+West Hollywood,"26,000","26,180",0.7,Los Angeles
+Westlake Village,"3,442","3,440",-0.1,Los Angeles
+Whittier,"30,418","30,551",0.4,Los Angeles
+Chowchilla,"4,451","4,547",2.2,Madera
+Madera,"18,355","18,538",1.0,Madera
+Belvedere,"1,062","1,060",-0.2,Marin
+Corte Madera,"4,182","4,206",0.6,Marin
+Fairfax,"3,486","3,508",0.6,Marin
+Larkspur,"6,460","6,469",0.1,Marin
+Mill Valley,"6,521","6,539",0.3,Marin
+Novato,"21,337","21,407",0.3,Marin
+Ross,882,889,0.8,Marin
+San Anselmo,"5,539","5,567",0.5,Marin
+San Rafael,"24,631","24,699",0.3,Marin
+Sausalito,"4,435","4,439",0.1,Marin
+Tiburon,"4,051","4,059",0.2,Marin
+Mariposa,"9,840","9,788",-0.5,Mariposa
+Fort Bragg,"3,358","3,364",0.2,Mendocino
+Point Arena,226,226,0.0,Mendocino
+Ukiah,"6,955","6,980",0.4,Mendocino
+Willits,"2,157","2,160",0.1,Mendocino
+Atwater,"10,439","10,468",0.3,Merced
+Dos Palos,"1,804","1,803",-0.1,Merced
+Gustine,"2,151","2,157",0.3,Merced
+Livingston,"3,862","3,873",0.3,Merced
+Los Banos,"13,857","14,145",2.1,Merced
+Merced,"30,565","31,370",2.6,Merced
+Alturas,"1,395","1,395",0.0,Modoc
+Mammoth Lakes,"9,415","9,461",0.5,Mono
+Carmel-by-the-Sea,"3,063","3,067",0.1,Monterey
+Del Rey Oaks,744,746,0.3,Monterey
+Gonzales,"2,091","2,091",0.0,Monterey
+Greenfield,"4,642","4,724",1.8,Monterey
+King City,"3,535","3,691",4.4,Monterey
+Marina,"8,208","8,444",2.9,Monterey
+Monterey,"13,806","13,825",0.1,Monterey
+Pacific Grove,"8,195","8,232",0.5,Monterey
+Salinas,"44,749","44,939",0.4,Monterey
+Sand City,194,197,1.5,Monterey
+Seaside,"10,818","10,847",0.3,Monterey
+Soledad,"4,587","4,633",1.0,Monterey
+American Canyon,"6,497","6,501",0.1,Napa
+Calistoga,"2,409","2,427",0.7,Napa
+Napa,"31,733","31,884",0.5,Napa
+St Helena,"2,829","2,856",1.0,Napa
+Yountville,"1,353","1,358",0.4,Napa
+Grass Valley,"6,795","6,848",0.8,Nevada
+Nevada City,"1,638","1,697",3.6,Nevada
+Truckee,"13,636","13,713",0.6,Nevada
+Aliso Viejo,"20,189","20,189",0.0,Orange
+Anaheim,"111,775","112,351",0.5,Orange
+Brea,"17,997","18,693",3.9,Orange
+Buena Park,"25,691","25,868",0.7,Orange
+Costa Mesa,"44,239","44,269",0.1,Orange
+Cypress,"16,931","16,995",0.4,Orange
+Dana Point,"16,379","16,534",0.9,Orange
+Fountain Valley,"19,737","19,839",0.5,Orange
+Fullerton,"50,511","50,620",0.2,Orange
+Garden Grove,"48,963","49,203",0.5,Orange
+Huntington Beach,"82,924","83,014",0.1,Orange
+Irvine,"123,396","125,211",1.5,Orange
+Laguna Beach,"13,025","13,054",0.2,Orange
+Laguna Hills,"11,430","11,433",0.0,Orange
+Laguna Niguel,"27,822","27,827",0.0,Orange
+Laguna Woods,"13,414","13,414",0.0,Orange
+La Habra,"20,814","20,849",0.2,Orange
+Lake Forest,"31,288","31,631",1.1,Orange
+La Palma,"5,273","5,275",0.0,Orange
+Los Alamitos,"4,429","4,541",2.5,Orange
+Mission Viejo,"35,047","35,116",0.2,Orange
+Newport Beach,"44,980","45,072",0.2,Orange
+Orange,"47,351","48,100",1.6,Orange
+Placentia,"17,417","18,033",3.5,Orange
+Rancho Santa Margarita,"17,606","17,606",0.0,Orange
+San Clemente,"26,707","26,757",0.2,Orange
+San Juan Capistrano,"12,429","12,570",1.1,Orange
+Santa Ana,"81,082","82,058",1.2,Orange
+Seal Beach,"14,675","14,675",0.0,Orange
+Stanton,"12,049","12,102",0.4,Orange
+Tustin,"28,321","28,405",0.3,Orange
+Villa Park,"2,020","2,030",0.5,Orange
+Westminster,"28,179","28,268",0.3,Orange
+Yorba Linda,"23,722","23,763",0.2,Orange
+Auburn,"6,403","6,415",0.2,Placer
+Colfax,955,963,0.8,Placer
+Lincoln,"20,464","21,321",4.2,Placer
+Loomis,"2,559","2,567",0.3,Placer
+Rocklin,"26,776","27,106",1.2,Placer
+Roseville,"60,082","61,865",3.0,Placer
+Portola,"1,077","1,076",-0.1,Plumas
+Banning,"12,176","12,411",1.9,Riverside
+Beaumont,"17,843","18,719",4.9,Riverside
+Blythe,"5,248","5,246",0.0,Riverside
+Calimesa,"4,599","4,637",0.8,Riverside
+Canyon Lake,"4,573","4,583",0.2,Riverside
+Cathedral City,"22,991","23,070",0.3,Riverside
+Coachella,"10,178","10,380",2.0,Riverside
+Corona,"50,287","50,604",0.6,Riverside
+Desert Hot Springs,"11,704","11,868",1.4,Riverside
+Eastvale,"18,396","18,405",0.0,Riverside
+Hemet,"35,986","36,550",1.6,Riverside
+Indian Wells,"5,219","5,244",0.5,Riverside
+Indio,"35,276","35,947",1.9,Riverside
+Jurupa Valley,"29,193","29,354",0.6,Riverside
+Lake Elsinore,"21,767","21,918",0.7,Riverside
+La Quinta,"23,796","24,233",1.8,Riverside
+Menifee,"38,734","39,966",3.2,Riverside
+Moreno Valley,"58,004","58,416",0.7,Riverside
+Murrieta,"37,141","37,205",0.2,Riverside
+Norco,"7,227","7,240",0.2,Riverside
+Palm Desert,"36,058","36,308",0.7,Riverside
+Palm Springs,"35,502","35,697",0.5,Riverside
+Perris,"19,583","19,843",1.3,Riverside
+Rancho Mirage,"14,575","14,817",1.7,Riverside
+Riverside,"100,940","101,196",0.3,Riverside
+San Jacinto,"16,299","16,355",0.3,Riverside
+Temecula,"37,420","37,492",0.2,Riverside
+Wildomar,"11,750","11,801",0.4,Riverside
+Citrus Heights,"36,011","36,233",0.6,Sacramento
+Elk Grove,"57,471","58,166",1.2,Sacramento
+Folsom,"31,091","32,083",3.2,Sacramento
+Galt,"8,382","8,591",2.5,Sacramento
+Isleton,388,388,0.0,Sacramento
+Rancho Cordova,"29,695","30,350",2.2,Sacramento
+Sacramento,"205,314","207,274",1.0,Sacramento
+Hollister,"12,781","13,006",1.8,San Benito
+San Juan Bautista,907,909,0.2,San Benito
+Adelanto,"9,666","9,739",0.8,San Bernardino
+Apple Valley,"27,259","27,369",0.4,San Bernardino
+Barstow,"9,622","9,623",0.0,San Bernardino
+Big Bear Lake,"9,514","9,546",0.3,San Bernardino
+Chino,"28,237","28,654",1.5,San Bernardino
+Chino Hills,"26,105","26,125",0.1,San Bernardino
+Colton,"16,758","16,775",0.1,San Bernardino
+Fontana,"57,483","58,270",1.4,San Bernardino
+Grand Terrace,"4,899","4,901",0.0,San Bernardino
+Hesperia,"30,722","31,020",1.0,San Bernardino
+Highland,"17,127","17,169",0.2,San Bernardino
+Loma Linda,"10,312","10,390",0.8,San Bernardino
+Montclair,"10,844","10,872",0.3,San Bernardino
+Needles,"2,734","2,734",0.0,San Bernardino
+Ontario,"54,918","55,981",1.9,San Bernardino
+Rancho Cucamonga,"60,797","61,158",0.6,San Bernardino
+Redlands,"27,580","27,681",0.4,San Bernardino
+Rialto,"28,126","28,230",0.4,San Bernardino
+San Bernardino,"66,418","67,593",1.8,San Bernardino
+Twentynine Palms,"9,565","9,570",0.1,San Bernardino
+Upland,"28,935","29,014",0.3,San Bernardino
+Victorville,"39,797","40,473",1.7,San Bernardino
+Yucaipa,"20,247","20,310",0.3,San Bernardino
+Yucca Valley,"9,984","10,026",0.4,San Bernardino
+Carlsbad,"48,385","48,601",0.4,San Diego
+Chula Vista,"88,625","89,482",1.0,San Diego
+Coronado,"9,591","9,601",0.1,San Diego
+Del Mar,"2,582","2,601",0.7,San Diego
+El Cajon,"36,837","36,871",0.1,San Diego
+Encinitas,"26,670","26,776",0.4,San Diego
+Escondido,"50,383","50,655",0.5,San Diego
+Imperial Beach,"10,159","10,188",0.3,San Diego
+La Mesa,"26,319","26,589",1.0,San Diego
+Lemon Grove,"9,375","9,560",2.0,San Diego
+National City,"17,860","17,964",0.6,San Diego
+Oceanside,"67,853","68,064",0.3,San Diego
+Poway,"17,013","17,129",0.7,San Diego
+San Diego,"558,788","565,822",1.3,San Diego
+San Marcos,"32,000","32,339",1.1,San Diego
+Santee,"22,019","22,369",1.6,San Diego
+Solana Beach,"6,592","6,643",0.8,San Diego
+Vista,"33,762","33,998",0.7,San Diego
+San Francisco,"415,316","418,139",0.7,San Francisco
+Escalon,"2,728","2,732",0.1,San Joaquin
+Lathrop,"8,972","10,388",15.8,San Joaquin
+Lodi,"25,372","25,647",1.1,San Joaquin
+Manteca,"29,305","30,399",3.7,San Joaquin
+Ripon,"5,751","5,763",0.2,San Joaquin
+Stockton,"103,318","103,808",0.5,San Joaquin
+Tracy,"29,623","30,275",2.2,San Joaquin
+Arroyo Grande,"8,069","8,086",0.2,San Luis Obispo
+Atascadero,"12,297","12,434",1.1,San Luis Obispo
+El Paso de Robles,"12,382","12,431",0.4,San Luis Obispo
+Grover Beach,"5,913","5,923",0.2,San Luis Obispo
+Morro Bay,"6,563","6,567",0.1,San Luis Obispo
+Pismo Beach,"5,846","5,861",0.3,San Luis Obispo
+San Luis Obispo,"22,258","22,845",2.6,San Luis Obispo
+Atherton,"2,537","2,547",0.4,San Mateo
+Belmont,"11,220","11,220",0.0,San Mateo
+Brisbane,"2,059","2,067",0.4,San Mateo
+Burlingame,"13,194","13,343",1.1,San Mateo
+Colma,526,526,0.0,San Mateo
+Daly City,"33,934","34,049",0.3,San Mateo
+East Palo Alto,"8,122","8,141",0.2,San Mateo
+Foster City,"13,735","13,796",0.4,San Mateo
+Half Moon Bay,"4,845","4,851",0.1,San Mateo
+Hillsborough,"3,984","4,012",0.7,San Mateo
+Menlo Park,"13,916","13,912",0.0,San Mateo
+Millbrae,"8,702","8,788",1.0,San Mateo
+Pacifica,"14,678","14,749",0.5,San Mateo
+Portola Valley,"1,917","1,924",0.4,San Mateo
+Redwood City,"33,092","33,189",0.3,San Mateo
+San Bruno,"16,696","16,732",0.2,San Mateo
+San Carlos,"12,318","12,318",0.0,San Mateo
+San Mateo,"43,077","43,325",0.6,San Mateo
+South San Francisco,"22,877","23,083",0.9,San Mateo
+Woodside,"2,187","2,200",0.6,San Mateo
+Buellton,"2,031","2,033",0.1,Santa Barbara
+Carpinteria,"5,714","5,723",0.2,Santa Barbara
+Goleta,"12,846","13,050",1.6,Santa Barbara
+Guadalupe,"2,304","2,349",2.0,Santa Barbara
+Lompoc,"14,672","14,692",0.1,Santa Barbara
+Santa Barbara,"38,543","38,675",0.3,Santa Barbara
+Santa Maria,"30,732","31,113",1.2,Santa Barbara
+Solvang,"2,620","2,644",0.9,Santa Barbara
+Campbell,"18,427","18,451",0.1,Santa Clara
+Cupertino,"21,757","21,787",0.1,Santa Clara
+Gilroy,"18,478","18,784",1.7,Santa Clara
+Los Altos,"11,841","11,871",0.3,Santa Clara
+Los Altos Hills,"3,132","3,151",0.6,Santa Clara
+Los Gatos,"13,892","14,006",0.8,Santa Clara
+Milpitas,"25,581","25,769",0.7,Santa Clara
+Monte Sereno,"1,325","1,353",2.1,Santa Clara
+Morgan Hill,"16,123","16,178",0.3,Santa Clara
+Mountain View,"38,916","39,194",0.7,Santa Clara
+Palo Alto,"29,165","29,285",0.4,Santa Clara
+San Jose,"344,112","345,798",0.5,Santa Clara
+Santa Clara,"52,000","53,370",2.6,Santa Clara
+Saratoga,"11,309","11,353",0.4,Santa Clara
+Sunnyvale,"62,491","63,111",1.0,Santa Clara
+Capitola,"5,496","5,507",0.2,Santa Cruz
+Santa Cruz,"24,250","24,415",0.7,Santa Cruz
+Scotts Valley,"4,982","4,994",0.2,Santa Cruz
+Watsonville,"14,655","14,699",0.3,Santa Cruz
+Anderson,"4,775","4,782",0.1,Shasta
+Redding,"40,287","40,509",0.6,Shasta
+Shasta Lake,"4,401","4,413",0.3,Shasta
+Loyalton,343,343,0.0,Sierra
+Dorris,365,365,0.0,Siskiyou
+Dunsmuir,"1,091","1,090",-0.1,Siskiyou
+Etna,355,355,0.0,Siskiyou
+Fort Jones,330,330,0.0,Siskiyou
+Montague,570,570,0.0,Siskiyou
+Mount Shasta,"1,910","1,935",1.3,Siskiyou
+Tulelake,360,360,0.0,Siskiyou
+Weed,"1,280","1,224",-4.4,Siskiyou
+Yreka,"3,724","3,777",1.4,Siskiyou
+Benicia,"11,383","11,385",0.0,Solano
+Dixon,"6,706","6,804",1.5,Solano
+Fairfield,"41,172","41,790",1.5,Solano
+Rio Vista,"5,247","5,351",2.0,Solano
+Suisun City,"9,523","9,528",0.1,Solano
+Vacaville,"37,004","37,360",1.0,Solano
+Vallejo,"45,561","45,568",0.0,Solano
+Cloverdale,"3,555","3,571",0.5,Sonoma
+Cotati,"3,215","3,238",0.7,Sonoma
+Healdsburg,"5,074","5,108",0.7,Sonoma
+Petaluma,"24,135","24,376",1.0,Sonoma
+Rohnert Park,"18,074","18,324",1.4,Sonoma
+Santa Rosa,"70,957","71,563",0.9,Sonoma
+Sebastopol,"3,606","3,614",0.2,Sonoma
+Sonoma,"5,750","5,761",0.2,Sonoma
+Windsor,"9,769","9,800",0.3,Sonoma
+Ceres,"13,834","13,837",0.0,Stanislaus
+Hughson,"2,524","2,577",2.1,Stanislaus
+Modesto,"77,048","77,702",0.8,Stanislaus
+Newman,"3,755","3,761",0.2,Stanislaus
+Oakdale,"8,549","8,552",0.0,Stanislaus
+Patterson,"6,994","7,128",1.9,Stanislaus
+Riverbank,"7,537","7,634",1.3,Stanislaus
+Turlock,"25,313","25,388",0.3,Stanislaus
+Waterford,"2,720","2,786",2.4,Stanislaus
+Live Oak,"2,945","3,001",1.9,Sutter
+Yuba City,"24,154","24,236",0.3,Sutter
+Corning,"2,941","2,941",0.0,Tehama
+Red Bluff,"6,120","6,126",0.1,Tehama
+Tehama,191,191,0.0,Tehama
+Trinity,"8,012","8,047",0.4,Trinity
+Dinuba,"7,170","7,291",1.7,Tulare
+Exeter,"3,683","3,684",0.0,Tulare
+Farmersville,"2,783","2,783",0.0,Tulare
+Lindsay,"3,588","3,589",0.0,Tulare
+Porterville,"19,105","19,212",0.6,Tulare
+Tulare,"21,900","22,122",1.0,Tulare
+Visalia,"49,513","50,199",1.4,Tulare
+Woodlake,"2,340","2,376",1.5,Tulare
+Sonora,"2,522","2,524",0.1,Tuolumne
+Camarillo,"28,025","28,166",0.5,Ventura
+Fillmore,"4,875","5,079",4.2,Ventura
+Moorpark,"11,769","11,857",0.7,Ventura
+Ojai,"3,509","3,522",0.4,Ventura
+Oxnard,"57,295","57,407",0.2,Ventura
+Port Hueneme,"8,298","8,308",0.1,Ventura
+San Buenaventura,"44,715","45,150",1.0,Ventura
+Santa Paula,"9,515","9,735",2.3,Ventura
+Simi Valley,"44,133","44,695",1.3,Ventura
+Thousand Oaks,"48,207","48,295",0.2,Ventura
+Davis,"27,596","27,738",0.5,Yolo
+West Sacramento,"20,624","21,411",3.8,Yolo
+Winters,"2,754","2,826",2.6,Yolo
+Woodland,"22,236","22,456",1.0,Yolo
+Marysville,"5,098","5,100",0.0,Yuba
+Wheatland,"1,360","1,445",6.3,Yuba
