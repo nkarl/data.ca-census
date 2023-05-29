@@ -1,0 +1,19 @@
+version: '3'
+services:
+  ca-census-db:
+    container_name: db-ca-census
+    image: mysql
+    environment:
+      MYSQL_ROOT_PASSWORD: pass1234
+      MYSQL_USER: admin
+      MYSQL_PASSWORD: 1234
+      MYSQL_DATABASE: ca_census
+    ports:
+      - "5432:5432"
+    volumes:
+      - ./database:/database
+    working_dir: '/database'
+
+volumes:
+  db-ca-census:
+    name: database
